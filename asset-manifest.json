@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/nintendo-react/static/css/main.f072d644.chunk.css",
+    "main.js": "/nintendo-react/static/js/main.7c8f0d2b.chunk.js",
+    "main.js.map": "/nintendo-react/static/js/main.7c8f0d2b.chunk.js.map",
+    "runtime-main.js": "/nintendo-react/static/js/runtime-main.bcd5a2d9.js",
+    "runtime-main.js.map": "/nintendo-react/static/js/runtime-main.bcd5a2d9.js.map",
+    "static/js/2.c71d5473.chunk.js": "/nintendo-react/static/js/2.c71d5473.chunk.js",
+    "static/js/2.c71d5473.chunk.js.map": "/nintendo-react/static/js/2.c71d5473.chunk.js.map",
+    "index.html": "/nintendo-react/index.html",
+    "static/css/main.f072d644.chunk.css.map": "/nintendo-react/static/css/main.f072d644.chunk.css.map",
+    "static/js/2.c71d5473.chunk.js.LICENSE.txt": "/nintendo-react/static/js/2.c71d5473.chunk.js.LICENSE.txt",
+    "static/media/Arrow.0b386b47.svg": "/nintendo-react/static/media/Arrow.0b386b47.svg",
+    "static/media/Nintendo.d3e53350.svg": "/nintendo-react/static/media/Nintendo.d3e53350.svg",
+    "static/media/calendar.ba232c6e.svg": "/nintendo-react/static/media/calendar.ba232c6e.svg",
+    "static/media/caretdown.5f1db046.svg": "/nintendo-react/static/media/caretdown.5f1db046.svg",
+    "static/media/chat.50a3b060.svg": "/nintendo-react/static/media/chat.50a3b060.svg",
+    "static/media/closeX.cfd36635.svg": "/nintendo-react/static/media/closeX.cfd36635.svg",
+    "static/media/dpad.f02f5229.svg": "/nintendo-react/static/media/dpad.f02f5229.svg",
+    "static/media/heart.4f2881a1.svg": "/nintendo-react/static/media/heart.4f2881a1.svg",
+    "static/media/heart.a75b0aa3.svg": "/nintendo-react/static/media/heart.a75b0aa3.svg",
+    "static/media/hero.387241eb.webp": "/nintendo-react/static/media/hero.387241eb.webp",
+    "static/media/mobile.8013c7ea.svg": "/nintendo-react/static/media/mobile.8013c7ea.svg",
+    "static/media/online.61f5b1a0.svg": "/nintendo-react/static/media/online.61f5b1a0.svg",
+    "static/media/person.b37f55f0.svg": "/nintendo-react/static/media/person.b37f55f0.svg",
+    "static/media/question.aef772bf.svg": "/nintendo-react/static/media/question.aef772bf.svg",
+    "static/media/screenshot01.8dd5b768.jpg": "/nintendo-react/static/media/screenshot01.8dd5b768.jpg",
+    "static/media/screenshot02.d0531fd3.jpg": "/nintendo-react/static/media/screenshot02.d0531fd3.jpg",
+    "static/media/screenshot03.ab9fa7ab.jpg": "/nintendo-react/static/media/screenshot03.ab9fa7ab.jpg",
+    "static/media/screenshot04.ed3fc412.jpg": "/nintendo-react/static/media/screenshot04.ed3fc412.jpg",
+    "static/media/screenshot05.90efb3ba.jpg": "/nintendo-react/static/media/screenshot05.90efb3ba.jpg",
+    "static/media/search.bb54f0b7.svg": "/nintendo-react/static/media/search.bb54f0b7.svg",
+    "static/media/star.daa8c8d1.svg": "/nintendo-react/static/media/star.daa8c8d1.svg",
+    "static/media/switch.06e3bb2d.svg": "/nintendo-react/static/media/switch.06e3bb2d.svg",
+    "static/media/tag.ead8cd27.svg": "/nintendo-react/static/media/tag.ead8cd27.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd5a2d9.js",
+    "static/js/2.c71d5473.chunk.js",
+    "static/css/main.f072d644.chunk.css",
+    "static/js/main.7c8f0d2b.chunk.js"
+  ]
+}
