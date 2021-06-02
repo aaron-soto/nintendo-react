@@ -1,0 +1,20 @@
+#hero {
+	background-color: #d6f0fa;
+	position: relative;
+	z-index: -1;
+	margin-bottom: 80px;
+}
+.img-wrapper {
+	height: 100%;
+	max-width: 1109px;
+	margin: 0 auto;
+	margin-top: -40px;
+	position: relative;
+	transform: translateY(4em);
+}
+#header-rating {
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+	width: 60px;
+}

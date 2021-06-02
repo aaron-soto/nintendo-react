@@ -1,0 +1,90 @@
+.game-info-wrapper {
+	display: flex;
+	flex-direction: column;
+	max-width: 1180px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+.game-info-left {
+	width: 60%;
+}
+.game-info-right {
+	width: 40%;
+	justify-content: flex-end;
+}
+.console-name {
+	border-bottom: 2px solid #e60012;
+	margin-right: auto;
+	padding-bottom: 8px;
+	margin-bottom: 15px;
+	font-weight: 300;
+	font-size: 16px;
+}
+.info-panel-wrapper {
+	display: flex;
+}
+.basic-info {
+	display: flex;
+	flex-direction: column;
+}
+.basic-info h2 {
+	font-size: 28px;
+	font-weight: 700;
+	margin-bottom: 15px;
+}
+.basic-info h2,
+.basic-info p {
+	text-align: left;
+	color: #484848;
+}
+.game-info-right {
+	display: flex;
+}
+.price {
+	font-size: 28px;
+	font-weight: 700;
+	color: #484848;
+	margin-right: 25px;
+}
+.buy button {
+	background-color: #e60012;
+	border-radius: 5px;
+	border: none;
+	padding: 18px;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 600;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 15px;
+}
+.btn-icon {
+	height: 20px;
+	margin-left: 100px;
+	filter: grayscale(50%) saturate(1) brightness(0%) invert(100%);
+}
+.coin-icon {
+	height: 30px;
+	margin: 10px;
+}
+.coins {
+	display: flex;
+	align-items: center;
+}
+.btn-wish {
+	border: none;
+	background-color: #ffffff00;
+	color: #e60012;
+	font-weight: 700;
+	font-size: 16px;
+	margin-right: auto;
+	display: flex;
+	align-items: center;
+	margin-top: 15px;
+}
+.heart-icon {
+	color: #e60012;
+	height: 20px;
+	margin-right: 10px;
+}
